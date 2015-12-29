@@ -1,4 +1,8 @@
-#watashi desu 
+#Welcome
 
-##Dir List
+This repositry has sample codes.
+
+## List
 * spark
+* scala
+* bash
